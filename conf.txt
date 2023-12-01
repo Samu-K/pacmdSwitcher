@@ -1,0 +1,16 @@
+# This is a config file for you to store commands and sources
+# How to use:
+#   Use the command pacmd list-sinks to find the name for your device.
+#      e.g HD-Audio Generic
+#    From this take the portion before the first space
+#      e.g HD-Audio
+#
+#    Then come up with a descriptive shortened name for this
+#      e.g These are my speakers, so I use sp (short for speakers)
+#
+#    Then in the below lines fill in the short name, then full name.
+#      e.g 
+#        sp,HD-Audio
+# Start from the below line
+hp,UMC202HD
+sp,HD-Audio
